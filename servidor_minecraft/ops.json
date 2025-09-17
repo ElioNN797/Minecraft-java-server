@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "eeb5cb1c-8e23-3ebb-8aa6-e9e2afedaa17",
+    "name": "ElioNN797",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0b0e9389-6fde-349f-b2a2-79a2fadb17bc",
+    "name": "GNS_03",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,23 +1,54 @@
-[16:24:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:24:27] [ServerMain/INFO]: Loaded 1407 recipes
-[16:24:27] [ServerMain/INFO]: Loaded 1520 advancements
-[16:24:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:24:27] [Server thread/INFO]: Loading properties
-[16:24:27] [Server thread/INFO]: Default game type: SURVIVAL
-[16:24:27] [Server thread/INFO]: Generating keypair
-[16:24:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:24:28] [Server thread/INFO]: Using epoll channel type
-[16:24:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:24:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:24:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:24:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:24:28] [Server thread/INFO]: Preparing level "world"
-[16:24:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:24:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:30] [Server thread/INFO]: Time elapsed: 2368 ms
-[16:24:30] [Server thread/INFO]: Done (2.654s)! For help, type "help"
-[16:25:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:00:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:00:46] [ServerMain/INFO]: Loaded 1407 recipes
+[17:00:46] [ServerMain/INFO]: Loaded 1520 advancements
+[17:00:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:00:46] [Server thread/INFO]: Loading properties
+[17:00:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:46] [Server thread/INFO]: Generating keypair
+[17:00:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:00:46] [Server thread/INFO]: Using epoll channel type
+[17:00:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:00:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:00:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:00:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:00:47] [Server thread/INFO]: Preparing level "world"
+[17:00:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:51] [Server thread/INFO]: Time elapsed: 4148 ms
+[17:00:51] [Server thread/INFO]: Done (4.437s)! For help, type "help"
+[17:00:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:00:51] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/Minecraft-java-server/msx.py<--[HERE]
+[17:01:03] [Server thread/INFO]: ElioNN797[/127.204.134.75:59651] logged in with entity id 4 at (123.5, 72.0, -134.5)
+[17:01:03] [Server thread/INFO]: ElioNN797 joined the game
+[17:02:09] [Server thread/INFO]: GNS_03[/127.64.113.84:44957] logged in with entity id 633 at (124.5, 72.0, -149.5)
+[17:02:09] [Server thread/INFO]: GNS_03 joined the game
+[17:03:42] [Server thread/INFO]: Made ElioNN797 a server operator
+[17:03:42] [Server thread/INFO]: Made GNS_03 a server operator
+[17:03:48] [Server thread/INFO]: [GNS_03: Set own game mode to Creative Mode]
+[17:03:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:03:48] [Server thread/INFO]: whater rain<--[HERE]
+[17:04:05] [Server thread/INFO]: Set the weather to rain
+[17:06:59] [Server thread/INFO]: ElioNN797 was slain by Panda
+[17:08:39] [Server thread/INFO]: GNS_03 lost connection: Disconnected
+[17:08:39] [Server thread/INFO]: GNS_03 left the game
+[17:08:59] [Server thread/INFO]: ElioNN797 fell from a high place
+[17:10:25] [Server thread/INFO]: GNS_03[/127.64.113.84:36551] logged in with entity id 2687 at (63.13528432452147, 75.0, -158.81889244289732)
+[17:10:25] [Server thread/INFO]: GNS_03 joined the game
+[17:10:34] [Server thread/INFO]: ElioNN797 was slain by Panda
+[17:10:39] [Server thread/INFO]: [GNS_03: Set the time to 25000]
+[17:10:43] [Server thread/INFO]: [GNS_03: Set the weather to clear]
+[17:10:59] [Server thread/INFO]: [GNS_03: Gamerule doDaylightCycle is now set to: false]
+[17:12:54] [Server thread/INFO]: [GNS_03: Teleported GNS_03 to ElioNN797]
+[17:14:16] [Server thread/INFO]: GNS_03 lost connection: Disconnected
+[17:14:16] [Server thread/INFO]: GNS_03 left the game
+[17:15:25] [Server thread/INFO]: ElioNN797 lost connection: Disconnected
+[17:15:25] [Server thread/INFO]: ElioNN797 left the game
+[17:16:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
