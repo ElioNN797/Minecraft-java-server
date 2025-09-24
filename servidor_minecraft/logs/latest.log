@@ -35,3 +35,14 @@
 [16:56:07] [Server thread/INFO]: ElioNN797 lost connection: Disconnected
 [16:56:07] [Server thread/INFO]: ElioNN797 left the game
 [16:57:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:18:17] [Server thread/INFO]: Stopping the server
+[17:18:17] [Server thread/INFO]: Stopping server
+[17:18:17] [Server thread/INFO]: Saving players
+[17:18:17] [Server thread/INFO]: Saving worlds
+[17:18:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:18:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:18:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
